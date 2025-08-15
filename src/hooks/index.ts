@@ -1,0 +1,16 @@
+// export * from './Day';
+export * from './useForm';
+export * from './department';
+export * from './designation';
+export * from './slot';
+export * from './visitor';
+export * from './offer';
+// export * from './ClassRoom';
+// export * from './batch';
+// export * from './course';
+export * from './employee';
+// export * from './instructor';
+// export * from './registration';
+export * from './courseCombo';
+export * from './moneyReceipt';
+export * from './dailySalesRecord';
